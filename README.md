@@ -89,6 +89,8 @@ Breakpoints:
 - Mobile: 375px - 768px
 - Small: < 375px
 
+`Реалiзованi не тiльки Brakepoints, а й iншi адаптиви, щоб при проміжнiй ширинi екрану верстка не пливла`
+
 ## Інтернаціоналізація
 
 Підтримувані мови: English (en), Ukrainian (ua).

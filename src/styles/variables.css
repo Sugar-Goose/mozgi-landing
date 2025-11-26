@@ -1,0 +1,75 @@
+:root {
+  /* Colors */
+  --color-background: #bebebe;
+  --color-background-gradient: #FFCB46;
+  --color-page-transition: #ddbe71;
+  --color-text-primary: #333;
+  --color-text-secondary: #666;
+  --color-text-stroke: #373737;
+  --color-white: #ffffff;
+  --color-white-overlay-12: rgba(255, 255, 255, 0.12);
+  --color-white-overlay-50: rgba(255, 255, 255, 0.5);
+  --color-info-page-bg: #e0e0e0;
+
+  /* Typography - Font Families */
+  --font-primary: 'Grtsk Giga', sans-serif;
+  --font-fallback: 'Arial', 'Helvetica', sans-serif;
+
+  /* Typography - Font Weights */
+  --font-weight-normal: normal;
+  --font-weight-semibold: 600;
+  --font-weight-bold: bold;
+
+  /* Typography - Font Sizes */
+  --font-size-base: 16px;
+  --font-size-base-tablet: 14px;
+  --font-size-base-mobile: 12px;
+  
+  --font-size-title-min: 34px;
+  --font-size-title-max: 83px;
+  --font-size-title-vw: 5.5vw;
+  
+  --font-size-running-text-desktop: 52px;
+  --font-size-running-text-tablet: 42px;
+  --font-size-running-text-mobile: 28px;
+  
+  --font-size-burger-menu: 32px;
+  --font-size-burger-menu-mobile: 28px;
+  
+  --font-size-showreel-desktop: 14px;
+  --font-size-showreel-tablet: 13px;
+  --font-size-showreel-mobile: 11px;
+  --font-size-showreel-small: 9px;
+
+  /* Typography - Line Heights */
+  --line-height-base: 1.4;
+  --line-height-title: 110%;
+
+  /* Spacing */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 20px;
+  --spacing-xl: 40px;
+
+  /* Transitions */
+  --transition-fast: 0.3s ease;
+  --transition-normal: 0.4s ease;
+  --transition-slow: 0.5s ease;
+
+  /* Z-index */
+  --z-index-background: 2;
+  --z-index-content: 5;
+  --z-index-menu: 10;
+  --z-index-overlay: 999;
+  --z-index-transition: 10000;
+
+  /* Border Radius */
+  --border-radius-circle: 50%;
+  --border-radius-small: 4px;
+
+  /* Blur */
+  --blur-background: 76px;
+  --blur-menu: 10px;
+}
+

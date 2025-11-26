@@ -1,0 +1,19 @@
+{
+  "mainTitle": {
+    "line1": "FULL-CYCLE",
+    "line2": "EVENT AGENCY"
+  },
+  "runningText": "FULL-CYCLE EVENT AGENCY / FULL-CYCLE EVENT AGENCY",
+  "showreel": "showreel showreel showreel showreel",
+  "navigation": {
+    "where": "where?",
+    "what": "what?",
+    "who": "who?"
+  },
+  "infoPage": {
+    "title": "Page",
+    "description": "This is a test page to verify navigation between pages.",
+    "backToHome": "← Back to Home"
+  }
+}
+
